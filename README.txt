@@ -1,5 +1,3 @@
-# title
-
 ### WIP ###
 
 This is my submission for the Hackathlon by "analyticsvidhya.com"
