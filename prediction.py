@@ -10,7 +10,7 @@ from  sklearn.neighbors import KNeighborsClassifier
 # import the test data aswell as the train data 
 train = pd.read_csv("train_ctrUa4K.csv")
 test = pd.read_csv("test_lAUu6dG.csv")
-submission_df = pd.read_csv("sample_submission_49d68Cx.csv")
+submission_df = pd.read_csv("sample_submission_file.csv")
 
 train_cleaned = train.fillna(0.5)
 test_cleaned = test.fillna(0.5)
